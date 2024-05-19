@@ -1,0 +1,5 @@
+/* any custom font import must be in starting before tailwind import */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

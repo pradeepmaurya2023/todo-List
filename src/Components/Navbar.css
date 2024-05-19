@@ -1,0 +1,4 @@
+.text-shadow:hover {
+    color: rgb(42, 36, 111);
+    text-shadow: 4px 4px 5px rgb(250, 250, 250); /* Shadow properties (offset-x offset-y blur-radius color) */
+}
